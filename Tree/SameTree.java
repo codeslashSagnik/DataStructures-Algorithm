@@ -34,6 +34,7 @@ class Solution {
         Solution sol=  new Solution() ;  
           sol.isSameTree(nodes_p,nodes_q);
 }
+}
 
 // @lc code=end
 
